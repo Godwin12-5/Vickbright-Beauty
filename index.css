@@ -1,0 +1,147 @@
+
+@media only screen and (max-width: 320px){
+
+.niy{
+  width: 20%;
+  background-color: white;
+  border: none;
+}
+
+.niy:hover{
+  background-color: aqua;
+}
+
+
+.uytt{
+  margin-bottom: 40px;
+  margin-left: -80px;
+}
+
+.wedsaq h5{
+  
+  margin-left: 87px;
+}
+
+.yt-6 button{
+  border: none;
+  background-color: white;
+  color: black;
+  margin-top: -58px;
+  margin-left: 85px;
+}
+
+
+.wqe a{
+  margin-left: 87px;
+  font-size: 18px;
+}
+
+.wqe h3{
+  margin-top: 20px;
+  margin-left: 87px;
+  font-size: 18px;
+}
+
+.yt-7 button{
+margin-top: 40px;
+}
+
+.ttyt{
+  margin-left: 70px;
+  margin-top: -30px;
+}
+
+.ttyt h2{
+  font-size: 16px;
+  margin-left: 30px;
+  margin-top: -20px;
+  color: blue;
+}
+
+.wst{
+  margin-left: 120px;
+  margin-top: -46px;
+}
+
+.la1 h5{
+  margin-left: 30px;
+  margin-top: 10px;
+  font-family: cursive;
+}
+
+.la1 img{
+  margin-top: 10px;
+  margin-left: 133px;
+}
+
+.la1 h4{
+  margin-left: 14px;
+  margin-top: -150px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.la1 h6{
+  margin-left: 10px;
+  margin-top: 17px;
+  font-weight: light;
+  font-size: 8px;
+}
+
+.wsrt{
+  margin-left: 15px;
+  margin-top: 56px;
+  display: flex;
+  gap: 110px;
+}
+
+.tred h5{
+  margin-top: 10px;
+  font-size: 13px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.wsrt button{
+  margin-left: -10px;
+  font-size: 12px;
+  border: none;
+  width: 89px;
+  color: black;
+  background-color: aqua;
+}
+
+.wsrt button:hover{
+  background-color: blueviolet;
+}
+
+.tred-1 button{
+  background-color: coral;
+  margin-left: -30px;
+}
+
+.tred-1 h5{
+  margin-left: -20px;
+  margin-top: 10px;
+  font-size: 13px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.diy a{
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.poiu{
+  margin-top: 10px;
+  border: 1px solid;
+  }
+
+  .qr-1{
+    gap: 30px;
+  display: grid;
+  margin-top: 20px;
+  grid-template-columns: 1fr 1fr;
+  margin-left: 26px;
+  }
+}
+
